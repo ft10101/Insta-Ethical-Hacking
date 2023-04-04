@@ -3,7 +3,6 @@
 <br>
 
 > # **How to use:**
-<br> 
 
 **My Instagram phishing page is really easy to use, you only have to replace WEBHOOK on line 101 by your Discord webhook :**<br/>
 
