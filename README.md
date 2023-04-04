@@ -1,5 +1,5 @@
 > # **Instagram Phishing Page**
-❗ **Do not use it for malicious purposes, it's only for educational purposes.**<br/>
+❗ **Do not use it for malicious purposes, it's only for educational purposes.**<br>
 
 <br>
 # How to use:
