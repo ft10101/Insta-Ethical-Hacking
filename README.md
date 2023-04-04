@@ -3,9 +3,9 @@
 ❗ **Do not use it for malicious purposes, it's only for educational purposes.**<br/>
 
 <br/>
->> ## **How to use:**<br> 
+## >> **How to use:**<br> 
 
-**- My Instagram phishing page is really easy to use, you only have to replace WEBHOOK on line 101 by your Discord webhook :**<br/>
+**My Instagram phishing page is really easy to use, you only have to replace WEBHOOK on line 101 by your Discord webhook :**<br/>
 
 ![webhook](https://user-images.githubusercontent.com/81310818/123550149-869fee00-d76c-11eb-9938-34a444eb00e1.PNG)<br>
 
